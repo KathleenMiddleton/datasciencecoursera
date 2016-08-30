@@ -17,13 +17,13 @@
 #### R Data Types - Objects and Attributes
 
 | Operator / Symbol | Description |
-|:——- |:——- |
+|:--- |:--- |
 | `L` | as suffix to a number, specifies an integer |
 | `Inf` | infinity |
 | `NaN` | undefined number |
 
 | Function | Description |
-|:——- |:——- |
+|:--- |:--- |
 | `vector()` | creates empty vector; attributes = type, length |
 | `attributes()` | accesses the attributes; used to set or modify if user-defined |
 
