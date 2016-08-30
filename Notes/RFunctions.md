@@ -11,7 +11,7 @@
 | `:` | creates integer sequence |
 
 | Function | Description |
-| :——- | :——- |
+| : ——- | : ——- |
 | `print()` | explicit printing method |
 
 #### R Data Types - Objects and Attributes
@@ -28,10 +28,10 @@
 | `attributes()` | accesses the attributes; used to set or modify if user-defined |
 
 ##### Common object attributes
--`class` - has by default
--`length` - has by default
--`names` - optional?
--`dimnames` - dimension names in matrices
+* `class` - has by default
+* `length` - has by default
+* `names` - optional?
+* `dimnames` - dimension names in matrices
 
 #### R Data Types - Vectors and Lists
 
@@ -50,9 +50,9 @@
 | `rbind()` | row-binds vectors to create matrix |
 
 ##### Matrix attributes
--`dim` - dimensions; is itself a vector of 2 elements \(nrow, ncol\)
--`nrow` - number of rows
--`ncol` - number of columns
+-`dim` = dimensions; is itself a vector of 2 elements \(nrow, ncol\)
+-`nrow` = number of rows
+-`ncol` = number of columns
 
 #### R Data Types - Factors
 
@@ -79,7 +79,7 @@
 | `data.frame()` | creates data frame by defining it as a type of list |
 
 ##### Data Frame attributes
--`row.names` - as advertised
+* `row.names` - as advertised
 
 #### R Data Types - Names
 
@@ -133,12 +133,12 @@
 ##### Arguments for file()
 - `description` - string; name of the file
 - `open` - can be set with one of these flags:
-- - `r` read
-- - `w` write
-- - `a` append
-- - `rb` read binary
-- - `wb` write binary
-- - `ab` append binary
+  - `r` read
+  - `w` write
+  - `a` append
+  - `rb` read binary
+  - `wb` write binary
+  - `ab` append binary
 
 #### Subsetting R Objects: Basics
 
