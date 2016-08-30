@@ -11,7 +11,7 @@
 | `:` | creates integer sequence |
 
 | Function | Description |
-| : ——- | : ——- |
+|:--- |:--- |
 | `print()` | explicit printing method |
 
 #### R Data Types - Objects and Attributes
