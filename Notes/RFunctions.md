@@ -5,7 +5,7 @@
 #### Console Input and Evaluation
 
 | Operator or Symbol | Description |
-| :——- | :——- |
+| --- | --- |
 | `<-` | assignment operator |
 | `#` | comment character |
 | `:` | creates integer sequence |
